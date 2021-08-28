@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rosa1026
+- 👀 I’m interested in coding. especially Java spring, C, Verilog, Deep Learning
+- 🌱 I’m currently learning Java spring.
+- 📫 How to reach happymin1026@gmail.com
