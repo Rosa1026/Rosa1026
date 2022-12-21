@@ -1,18 +1,9 @@
-- 👋 Hi, I’m @Rosa1026
-- 👀 I’m interested in coding. especially Java spring, C, Verilog, Deep Learning
-- 🌱 I’m currently learning Java spring.
-- 📫 How to reach happymin1026@gmail.com
-
-![header]
-
 <h2 align='center'> "Cloud is a Cloud!" </p>
 <br>
 
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
 <p align='center'>
-
- <a href="https://sujeong-jang-creator.github.io/" target="_blank"><img src="https://img.shields.io/badge/My Info (Gitblog)-FF9E0F?style=flat-square&logo=Apache&logoColor=white" width = 180px height = 30px/></a>
-<a href="https://blog.naver.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a>
+<a href="[https://blog.naver.com/gomdorij](https://blog.naver.com/tsuna25)" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a>
 
 <br>
 <br>
