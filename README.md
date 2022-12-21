@@ -1,11 +1,9 @@
-<h2 align='center'> "Cloud is a Cloud!" </p>
-<br>
+<h2 align='center'> "Cloud is a Cloud!"
 
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
 <p align='center'>
 <a href="[https://blog.naver.com/gomdorij](https://blog.naver.com/tsuna25)" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a>
 
-<br>
 <br>
   
 <details>
