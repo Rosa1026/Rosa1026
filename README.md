@@ -3,8 +3,6 @@
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
 <p align='center'>
 <a href="https://blog.naver.com/tsuna25" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width = 80px height = 30px/></a>
-
-<br>
   
 <details>
   <summary>:blue_heart:Tech Stack:blue_heart:</summary>
@@ -33,4 +31,4 @@ I can use <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=f
 ![Rosa1026's github stats](https://github-readme-stats.vercel.app/api?username=rosa1026&show_icons=true)
 [![Rosa1026's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rosa1026&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/rosa1026)
 
-<br> 
+<br>
