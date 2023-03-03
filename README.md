@@ -27,8 +27,9 @@
  
  CI/CD:
  <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=flat-square&logo=Amazon CloudWatch&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/Amazon CodePipeline-FF4F8B?style=flat-square&logo=Amazon CodePipeline&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/Amazon CodeBuild-FF4F8B?style=flat-square&logo=Amazon CodeBuild&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Amazon CodePipeline-44A833?style=flat-square&logo=Amazon CodePipeline&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Amazon CodeBuild-44A833?style=flat-square&logo=Amazon CodeBuild&logoColor=white"/> </a>
+ 
  Machine learning:
  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/> </a>
 </details>
