@@ -24,6 +24,7 @@
  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=flat-square&logo=Amazon DynamoDB&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/> </a>
  
  CI/CD:
  <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=flat-square&logo=Amazon CloudWatch&logoColor=white"/> </a>
