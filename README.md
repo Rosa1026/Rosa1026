@@ -22,9 +22,9 @@
  
  CI/CD:
  <img src="https://img.shields.io/badge/kubeflow-F37626?style=flat-square&logo=kubeflow&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/argoCD-4479A1?style=flat-square&logo=argoCD&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/gitlab-4479A1?style=flat-square&logo=gitlab&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/Jenkins-4479A1?style=flat-square&logo=Jenkins&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/argoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> </a>
 
  
  Machine learning:
