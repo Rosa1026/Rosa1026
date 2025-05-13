@@ -14,8 +14,9 @@
  OS:
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> </a>
  
- Cloud:
+ Infra:
  <img src="https://img.shields.io/badge/Kubernetes-FCC624?style=flat-square&logo=Kubernetes&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Openstack-FCC624?style=flat-square&logo=Openstack&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> </a>
  
  Data & Database:
