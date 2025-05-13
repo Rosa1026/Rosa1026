@@ -18,7 +18,6 @@
  Data & Database:
  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/Tableau-4479A1?style=flat-square&logo=Tableau&logoColor=white"/> </a>
  
  CI/CD:
  <img src="https://img.shields.io/badge/kubeflow-F37626?style=flat-square&logo=kubeflow&logoColor=white"/> </a>
@@ -26,9 +25,6 @@
  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> </a>
 
- 
- Machine learning:
- <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/> </a>
 </details>
 
 <br>
