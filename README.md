@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> </a>
  
  OS:
- <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Linux-F37626?style=flat-square&logo=Linux&logoColor=white"/> </a>
  
  Infra:
  <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat-square&logo=Kubernetes&logoColor=white"/> </a>
