@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/badge/Linux-F37626?style=flat-square&logo=Linux&logoColor=white"/> </a>
  
  Infra:
- <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat-square&logo=Kubernetes&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/Kubernetes-#326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Openstack-FF0000?style=flat-square&logo=Openstack&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> </a>
  
